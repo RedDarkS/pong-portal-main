@@ -25,21 +25,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cfb8edd4-3248-4cdb-8dba-8c90b5de0281" name="Default Changelist" comment="re plein de conneries">
+      <change afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/Audio.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/Audio.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/do.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/fa.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/la.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/mi.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong1.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong2.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong3.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/pong4.wav" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/re.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/si.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sound/sol.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/texture-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/public/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/public/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/terrain.png" beforeDir="false" afterPath="$PROJECT_DIR$/styles/skins/wimbledon/terrain.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/skins/wimbledon/texture-background.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/wimbledon.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/wimbledon.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +71,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sound" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -104,6 +105,7 @@
       <workItem from="1605418068367" duration="11657000" />
       <workItem from="1605723552953" duration="1067000" />
       <workItem from="1605724707085" duration="20609000" />
+      <workItem from="1608059875616" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="chemin vers un code plus élégant">
       <created>1605418227308</created>
@@ -152,6 +154,7 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="chemin vers un code plus élégant" />
     <MESSAGE value="plein de conneries" />
     <MESSAGE value="re plein de conneries" />

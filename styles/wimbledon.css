@@ -2,7 +2,7 @@ html{
     margin: 0;
     padding:0;
     overflow: hidden;
-    --couleur-fond: #305535;
+    --couleur-fond: #000;
     --couleur-elements:#FFF;
     --couleur-on-sait-pas-trop:#808080;
     --couleur-on-sait-pas-trop-foncee:#222;
@@ -32,7 +32,6 @@ body{
     height: 100%;
     position: absolute;
     display: flex;
-    background-image: url('./skins/wimbledon/texture-background.jpg');
     justify-content: center;
     align-items: center;
 }
