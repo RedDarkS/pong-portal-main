@@ -1,12 +1,12 @@
 .balle{
     background-color: #fff00;
-    --diamettre:40px;
+    --diamettre:60px;
     width: var(--diamettre);
     height: var(--diamettre);
     top: calc( 50% - var(--diamettre) / 2 );
     left: calc( 50% - var(--diamettre) / 2 );
     border-radius: 100%;
-    box-shadow: 20px 20px 8px rgba(0,0,0,0.5);
+/*     box-shadow: 20px 20px 8px rgba(0,0,0,0.5); */
     transition: box-shadow 0.5s ease-in-out, transform 0.1s ease-in-out;
 }
 .balle-dedans{
