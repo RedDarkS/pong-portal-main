@@ -47,7 +47,7 @@ body{
     position: relative;
     transform-origin: center;
     max-height: 90vh;
-    background-image: url('./skins/wimbledon/terrain.png');
+    background-image: url('./skins/wimbledon/terrain2.png');
     background-size: cover;
     background-position: center;
 }
