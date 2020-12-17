@@ -35,6 +35,6 @@
     animation-duration: 0s;
 }
 .terrain.pause .balle{
-    box-shadow: 0px 0px 8px rgba(0,0,0,0.5);
+/*     box-shadow: 0px 0px 8px rgba(0,0,0,0.5); */
     transform: scale(0);
 }
