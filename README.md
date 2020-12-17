@@ -1,6 +1,6 @@
 # Encore un pong
 
-https://RedDarkS.github.io/pong-portal/index.html
+ https://reddarks.github.io/pong-portal-main/
 
 Pour jouer...
 
