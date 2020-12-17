@@ -3,15 +3,15 @@ class Perso extends ElementHtml{
         super($html);
         this.$bulle=$html.find(".bulle");
         this.mots=[
-            "Bof"
-            ,"On s'emmerde un peu"
-            ,"Fait chaud"
+            "Bawoup"
+            ,"Omae no tamashi itadaku yo"
+            ,"Y a pas de sièges ?"
             ,"..."
-            ,"Rolland Garros c'est mieux"
-            ,"zyva l'autre avec sa raquette"
-            ,"sont pas doués"
-            ,"Ya koi ce soir à la télé?"
-            ,"vive moi!"
+            ,"Bip Bip Bip Boup"
+            ,"Bien reçu ! Bien reçu !"
+            ,"Pourquoi la balle passe pas le portail ?"
+            ,"5 sur 5 ! 5 sur 5 !"
+            ,"Ich bin ein klein vogel"
         ];
     }
     parle(blabla){
@@ -19,7 +19,7 @@ class Perso extends ElementHtml{
         this.$bulle.text(blabla);
         setTimeout(function(){
             ici.$bulle.text("");
-        },1500);
+        },2500);
     }
 
     /**

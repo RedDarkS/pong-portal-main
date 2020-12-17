@@ -2,7 +2,7 @@ html{
     margin: 0;
     padding:0;
     overflow: hidden;
-    --couleur-fond: #000;
+    --couleur-fond: #c6c6c6;
     --couleur-elements:#FFF;
     --couleur-on-sait-pas-trop:#808080;
     --couleur-on-sait-pas-trop-foncee:#222;
@@ -104,7 +104,7 @@ body{
     mix-blend-mode: hard-light;
     font-size: 5vmin;
     font-weight: 700;
-    color: #fb8d39;
+    color: #ff6f00;
     line-height: 1.1;
 }
 .score{
