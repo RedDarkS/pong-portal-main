@@ -115,7 +115,7 @@ body{
 
 .raquette{
     --hauteur:15%;
-    width: 15vmin;
+    width: 5vmin;
     height:var(--hauteur);
     outline-offset: -1px;
     top:calc( 50% - var(--hauteur) / 2  );
