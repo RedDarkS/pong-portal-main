@@ -176,7 +176,7 @@ class Balle extends ElementHtml {
             //inverse la direction Y
             this.inverseDirectionY();
             this.haut += this.vitesse * this.directionY;
-            audio.playNote();
+            //audio.playNote();
         }
 
         //raquettes
