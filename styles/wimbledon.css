@@ -125,11 +125,11 @@ body{
     transition: transform 0.2s;
 }
 .raquette.joueur1{
-    left: 2%;
+    left: 1%;
     background-image: url("./skins/wimbledon/joueur1.png");
 }
 .raquette.joueur2{
-    right: 2%;
+    right: 1%;
     background-image: url("./skins/wimbledon/joueur2.png");
 }
 .raquette[sens='monte']{
